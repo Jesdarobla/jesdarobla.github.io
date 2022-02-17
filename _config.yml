@@ -23,16 +23,16 @@ author:
   github: Jesdarobla
   linkedin: jesdarobla
   bio: "A junior Ruby and Ruby on Rails developer trying to make his way through the galaxy."
-  profilepicture: "assets/images/perfil.jfif"
+  profilepicture: "/assets/images/perfil.jfif"
 
 categories_path: categories.html
 tags_path: tags.html
-esp_cv_path: assets/media/cv-jesus.pdf
-eng_cv_path: assets/media/eng-cv-jesus.pdf
+esp_cv_path: /assets/media/cv-jesus.pdf
+eng_cv_path: /assets/media/eng-cv-jesus.pdf
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
-BASE_PATH: "."
+BASE_PATH: ""
 
 plugins:
   - jekyll-paginate
