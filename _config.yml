@@ -1,0 +1,38 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+markdown: kramdown
+disqus: dbyll
+google_analytics: dbyll
+title: "Jesús David Rodríguez Blanco"
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: "Just Another Blog"
+
+
+description: A description
+author:
+  name: "Jesús David Rodríguez Blanco"
+  email: jesdarobla@gmail.com
+  github: Jesdarobla
+  linkedin: jesdarobla
+  bio: "A junior Ruby and Ruby on Rails developer trying to make his way through the galaxy."
+  profilepicture: "assets/images/perfil.jfif"
+
+categories_path: categories.html
+tags_path: tags.html
+esp_cv_path: assets/media/cv-jesus.pdf
+eng_cv_path: assets/media/eng-cv-jesus.pdf
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH: ""
+
+plugins:
+  - jekyll-paginate
