@@ -57,6 +57,11 @@
 			<a type="button" class="navbar-toggle nav-link" href="mailto:{{ site.author.email }}">
 				<i class="fa fa-envelope"></i>
 			</a>
+			{% if site.author.linkedin %}
+			<a type="button" class="navbar-toggle nav-link" href="https://linkedin.com/in/{{ site.author.linkedin }}">
+				<i class="fa fa-linkedin"></i>
+			</a>
+			{% endif %}
 			{% endif %}
 			<a class="navbar-brand" href="{{ site.BASE_PATH }}/">
 				<img src="{{site.author.profilepicture}}" class="img-circle" width="50"  />
