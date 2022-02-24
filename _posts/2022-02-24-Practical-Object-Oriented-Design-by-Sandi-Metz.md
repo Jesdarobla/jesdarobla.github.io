@@ -1,7 +1,7 @@
 ---
 title: "Practical Object Oriented Design by Sandi Metz"
 layout: post
-categories: [general, Object Oriented Design]
+categories: [general]
 tag: [career, books, learning]
 description: "One of the best books I've ever read"
 ---
