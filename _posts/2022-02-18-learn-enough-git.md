@@ -2,7 +2,7 @@
 title: "Thoughts on Learn Enough Git to be dangerous by Learn Enough."
 layout: post
 categories: [general]
-tag: [career, books]
+tag: [career, books, learning]
 description: "My thoughts after reading and finishing this Git book."
 ---
 

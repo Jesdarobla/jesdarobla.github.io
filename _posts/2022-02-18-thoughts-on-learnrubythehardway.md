@@ -2,7 +2,7 @@
 title: "Thoughts on Learn Ruby the hard way by Zed A. Shaw"
 layout: post
 categories: [general]
-tag: [career, books]
+tag: [career, books, learning]
 description: "My thoughts after reading and finishing this Ruby book."
 ---
 
